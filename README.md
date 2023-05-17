@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bellangerclement
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning React and solidity
-- 💞️ I’m looking to collaborate withe everybody
+- 💞️ I’m looking to collaborate with  everybody
 - 📫 How to reach me just send me a PM
 
 <!---
