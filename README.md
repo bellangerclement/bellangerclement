@@ -27,6 +27,8 @@ Open for collaboration 👀 👀 </h2>
                  
 <a>
          <img src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"</a>
+  <a>
+         <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"</a>
                                  
   <a>
          <img src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"</a>
